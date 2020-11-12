@@ -2,6 +2,6 @@
 
 REST API base project 
 
-Backend - SpringBoot
-Database - 
-FronEnd - React JS
+Backend - SpringBoot 
+Database - MongoDB 
+FronEnd - React JS 
